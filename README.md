@@ -2,7 +2,6 @@
 - 👀 I’m interested in building code to make life easier, oh and also videogames
 - 🌱 I’m currently learning java :)
 - 💞️ I’m looking to collaborate on projects in the future
-- 📫 How to reach me @zryderace on most social media platforms
 
 <!---
 Zryderace/Zryderace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
